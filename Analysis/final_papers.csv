@@ -1,0 +1,47 @@
+﻿Title;Model class
+Real-time Bayesian learning and bond return predictability;Other/Bayesian
+Bayesian inference for long memory term structure models;Other/Bayesian
+Forecasting Key Macroeconomic Variables of the South African Economy using Bayesian Variable Selection;Other/Bayesian
+Are bond returns predictable with real-time macro data?;Penalized least squares
+Bayesian Factor-adjusted Sparse Regression;Penalized least squares
+Machine-Learning-Based Return Predictors and the Spanning Controversy in Macro-Finance;Penalized least squares
+Predicting interest rates using shrinkage methods, real‐time diffusion indexes, and model combinations;Penalized least squares
+Bond return predictability: Macro factors and machine learning methods;Several/ANN
+Bond Risk Premiums with Machine Learning;Several/ANN
+Understanding the determinants of bond excess returns using explainable AI;Several/ANN-DT
+Optimal Time Varying Parameters in Yield Curve Modeling and Forecasting: A Simulation Study on BRICS Countries;Several/AR(1)
+Prediction of long-term government bond yields using statistical and artificial intelligence methods;Several/ECM
+A Comparison of LSTM, GRU, and XGBoost for forecasting Morocco’s yield curve;Several/GBM
+Predicting Chinese bond risk premium with machine learning;Several/PCR-GBM
+Modelling and forecasting interest rates during stages of the economic cycle: A knowledge-discovery approach;Several/PLS-DT
+Predicting the Canadian Yield Curve Using Machine Learning Techniques;Several/PR
+Inference in Bayesian additive vector autoregressive tree models;Tree-based
+What Drives Short Rate Dynamics? A Functional Gradient Descent Approach;Tree-based
+Incorporating economic indicators and market sentiment effect into US Treasury bond yield prediction with machine learning;ANN
+Deep Learning for Bond Yield Forecasting: The LSTM-LagLasso;ANN
+Forecasting Government Bond Yields with Neural Networks Considering Cointegration;ANN
+An infinite hidden Markov model for short-term interest rates;Other
+Capturing the Regime-Switching and Memory Properties of Interest Rates;Other
+Particle filtering, learning, and smoothing for mixed-frequency state-space models;Other
+Can Brazilian Central Bank communication help to predict the yield curve?;Other
+Belgian economic policy uncertainty index: Improvement through text mining;Other
+An infinite hidden Markov model with GARCH for short-term interest rates;Other
+Functional Autoregression for Sparsely Sampled Data;Other
+Can Deep-Learning Models Predict Behavior of Treasury Bond Yields;Several/ANN
+A MODEL-SELECTION APPROACH TO ASSESSING THE INFORMATION IN THE TERM STRUCTURE USING LINEAR-MODELS AND ARTIFICIAL NEURAL NETWORKS;ANN
+A Rigorous Statistical Comparison of Deep Learning Models for US Treasury Yield Prediction;ANN
+A Risk-Free Discount Rate Prediction Model for Mineral Project Evaluation Using a Hybrid Discrete Wavelet Transform and Artificial Neural Network;ANN
+Autoencoder-Based Three-Factor Model for the Yield Curve of Japanese Government Bonds and a Trading Strategy;ANN
+Bond Market Prediction using an Ensemble of Neural Networks;ANN
+Comparing forecasting ability of parametric and non-parametric methods: An applications with Canadian monthly interest rates;ANN
+Evaluating the combined forecasts of the dynamic factor model and the artificial neural network model using linear and nonlinear combining methods;ANN
+Forecasting interest rates: a comparative assessment of some second-generation nonlinear models;ANN
+Forecasting market trends with neural networks;ANN
+Interest rate prediction: a neuro-hybrid approach with data preprocessing;ANN
+Learning Forecast-Efficient Yield Curve Factor Decompositions with Neural Networks;ANN
+LSTM Framework Design and Volatility Research on Intelligent Forecasting Model for Solving the Parallel Dislocation Problem;ANN
+Multiple yield curve modeling and forecasting using deep learning;ANN
+Multivariate time-series modeling with generative neural networks;ANN
+Neural network and machine learning use cases: Indian bond market predictions;ANN
+Price Forecast of Treasury Bond Market Yield: Optimize Method Based on Deep Learning Model;ANN
+The economic value of advanced time series methods for modelling and trading 10-year government bonds;ANN
